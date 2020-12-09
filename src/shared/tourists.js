@@ -25,7 +25,7 @@ export const touristsdetails=[
     id:3,
     src:logo4,
     heading:"Nandan" ,
-    body:" Sometimes we want to get out from the real life and enjoy the reel life. Nandan gives you that refreshment. Nandan is a government-sponsored film and cultural centre in Kolkata, India. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society. It includes a few comparatively large screens housed in an impressively architectured building. The complex, besides being a modern cinema and cultural complex, is a popular destination for the young and the aged alike.Not more than 15 minutes is what you need to reach Nandan from IIEST by bus or cab.",
+    body:" Sometimes we want to get out from the real life and enjoy the reel life. Nandan gives you that refreshment. Nandan is a government-sponsored film and cultural centre in Kolkata, India. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society. It includes a few comparatively large screens housed in an impressively architectured building. The complex, besides being a modern cinema and cultural complex, is a popular destination for the young and the aged alike.",
      alt:"nandan picture"
   },
   {
