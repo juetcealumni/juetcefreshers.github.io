@@ -51,7 +51,7 @@ After your necessary change is done just follow the below steps to submit your w
 
 >```bash
 >#Add upstream repo
->git remote add upstream https://github.com/indeplot/indeplot.git
+>git remote add upstream https://github.com/juetcefreshers/juetcefreshers.github.io.git
 >
 >#Disable accidental push to the upstream
 >git remote set-url --push upstream DISABLE
