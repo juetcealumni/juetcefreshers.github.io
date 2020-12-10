@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.663ec978.chunk.css",
+    "main.js": "/static/js/main.b332ab39.chunk.js",
+    "main.js.map": "/static/js/main.b332ab39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e81fa60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e81fa60.js.map",
+    "static/js/2.fa091ba7.chunk.js": "/static/js/2.fa091ba7.chunk.js",
+    "static/js/2.fa091ba7.chunk.js.map": "/static/js/2.fa091ba7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e4dcf1e4206e6ddbb8e873f6db0f5b33.js": "/precache-manifest.e4dcf1e4206e6ddbb8e873f6db0f5b33.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.663ec978.chunk.css.map": "/static/css/main.663ec978.chunk.css.map",
+    "static/js/2.fa091ba7.chunk.js.LICENSE.txt": "/static/js/2.fa091ba7.chunk.js.LICENSE.txt",
+    "static/media/Howrah.jpg": "/static/media/Howrah.e073e7c9.jpg",
+    "static/media/index.css": "/static/media/aerial_resize_final.b21a77d8.jpg",
+    "static/media/airport.jpg": "/static/media/airport.7bc9a3da.jpg",
+    "static/media/canteen_aahar.jpeg": "/static/media/canteen_aahar.736f8b60.jpeg",
+    "static/media/jucampus.jpg": "/static/media/jucampus.c8644fed.jpg",
+    "static/media/logo-electrophoria.png": "/static/media/logo-electrophoria.65c37189.png",
+    "static/media/prinsep.jpg": "/static/media/prinsep.5657da73.jpg",
+    "static/media/sealdah.jpg": "/static/media/sealdah.02c69c39.jpg",
+    "static/media/zoo.jpg": "/static/media/zoo.9440df8f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e81fa60.js",
+    "static/js/2.fa091ba7.chunk.js",
+    "static/css/main.663ec978.chunk.css",
+    "static/js/main.b332ab39.chunk.js"
+  ]
+}
