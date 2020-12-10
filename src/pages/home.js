@@ -25,6 +25,7 @@ function Home() {
                 <h6><a href="http://www.jaduniv.edu.in/" target="blank">Official website of Jadavpur University</a></h6>
                 <h6><a href="http://etceju.org/" target="blank">Departmental Official website</a></h6>
                 <h6><a href="https://admissionju.jadavpuruniversity.in/ugengg/" target="blank">Official UG Admission Portal</a></h6>
+                <h6><a href="https://www.antiragging.in/Site/Affidavits_registration_form.aspx" target="blank">Antiragging Affidavit Portal</a></h6>
                 <h6><a href="http://juadmission.jdvu.ac.in/jums_exam/" target="blank">Jadavpur University Management System</a></h6>
                 <h6><a href="https://www.facebook.com/JuEtcePlacementUpdates" target="blank">Placement Updates of Department</a></h6>
               </div>
